@@ -37,11 +37,14 @@ aside menu {
   margin-top: 2px;
   margin-left: 0.5;
   font-size: 1.5rem;
+  display: flex;
+  justify-content: start;
 }
 aside ul {
   margin: 1rem;
   display: flex;
   flex-direction: column;
+  justify-content: start;
 }
 section {
   grid-area: section;
