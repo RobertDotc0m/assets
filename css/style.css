@@ -24,7 +24,7 @@ nav {
   justify-content: center;
   align-items: center;
   color: white;
-  font-size: 3.5rem;
+  font-size: 2.5rem;
 }
 aside {
   grid-area: aside;
@@ -34,11 +34,12 @@ aside {
   align-items: center;
 }
 aside menu {
-  margin: 1.5rem;
-  font-size: 2rem;
+  margin-top: 2px;
+  margin-left: 0.5;
+  font-size: 1.5rem;
 }
 aside ul {
-  margin: 2rem;
+  margin: 1rem;
 }
 section {
   grid-area: section;
